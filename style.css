@@ -82,3 +82,7 @@ background:#00d4ff;
     height:80px;
     object-fit:contain;
 }
+a{
+    textdecoration:none;
+    color:black;
+}
